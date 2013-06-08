@@ -1,0 +1,10 @@
+#General YAML Configuration for DNS proxy
+
+"dns_primary": 
+ "ip_address": "8.8.8.8"
+ "port": 53
+"dns_secondary":
+ "ip_address": "8.8.4.4"
+ "port": 53
+"binding_host": "localhost"
+"binding_port": 53
